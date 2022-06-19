@@ -10,6 +10,10 @@ This project aims to demonstrate the CRUD functions of MongoDB
 
 For this project to work you must have a MongoDB project open, build a database (Database) and add a new database user (Database Access) described in the images
 
+[MongoDB Connection](https://imgur.com/a/0ZPgLPf)
+
+[MongoDB Web Auth](https://imgur.com/a/6GJYul8)
+
 
 The only thing that needs to be changed are the constants:
 
